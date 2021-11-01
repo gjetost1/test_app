@@ -1063,6 +1063,20 @@ Rails.application.routes.draw do
   #     resource :seller
   #   end
 
+    # Example resource route with options:
+  #   resources :products do
+  #     member do
+  #
+  #     end
+  #   end
+
+  # Example resource route with sub-resources:
+  #   resources :products do
+  #     resources :comments, :sales
+  #     resource :seller
+  #   end
+
+
 
 
 
